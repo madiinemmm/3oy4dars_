@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1920px;
+    width: 100%;
+}
+.list{
+    list-style: none;
+    display: flex;
+    padding: 20px 0;
+    align-items:center;
+    margin-left: 259px;
+ 
+    
+}
+  .item{
+    padding: 16px;
+}
+  .item a{
+    align-items: center;
+    color: #575859;
+    font-weight: 600;
+    line-height: 14.872px; 
+    text-decoration: none;
+}
+.txt1{
+    margin-left: 111px;
+}
+.navbar{
+    margin-left: 161px;
+}
+.txt2{
+    margin-left: 161px;
+}
+.btn{
+    width: 170px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 36px;
+    background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+    box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
+    flex-shrink: 0;
+    color:#FFF;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+}
+.txt3{
+    color: #ffffff;
+    font-family: Gilroy;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 80px;
+    margin-left: 250px; 
+
+}
+.txt4{
+    color: #ffffff;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 42px; 
+    margin-left: 250px;
+    padding-top: 8px;
+    max-width: 707px;
+}
+.btn__side{
+    width: 260px;
+    height: 66px;
+    border-radius: 36px;
+    background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+    box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20); 
+    margin-top: 36px;
+    color: #FFF;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px; 
+    border: none;
+    cursor: pointer;
+    margin-left: 250px;
+}
+
+.card1{
+   display: flex;
+   align-items: center;
+   width: 1800px;
+   height: 680px;
+   flex-shrink: 0;
+   margin-top: 148px;
+   border-radius: 36px;
+   background: linear-gradient(80deg, #5B52A3 1.08%, #40B8EA 100%);
+}
+.hero{
+   padding-top: 160px; 
+}
+.carousel{
+    width: 1600px;
+    height: 100%;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+    padding: 24px 27px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carousel button{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    max-width: 70px;
+    margin-right: 18px;
+    margin-left: 27px;
+}
+.carousel-item{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    cursor: pointer;
+    padding: 24px 23px;
+    gap: 20px;
+}
+.carousel-item span{
+    color: #1F2428;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.elements{
+    padding-top: 54px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-left: 100px;
+}
+.elements-item h3{
+    color:#1F2428;
+    font-family: Gilroy;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    width: 100%;
+    max-width: 400px;
+}
+.country{
+    border-radius: 16px;
+    background: #F2F6FC;
+    display: flex;
+    width: 100%;
+    max-width: 400px;
+    padding: 33px 34px;
+}
+.country{
+  display: flex;
+  align-items:center;
+  gap: 28px;
+  margin-top: 44px;
+}
+.price h4{
+    color:#1F2428;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.price p{
+    color:#1F2428;
+    font-family: Gilroy;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+}
+.img-center{
+    width: 446px;
+    height: 446px;
+    background: lightcyan;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.price-text{
+    color: #01CD7D;
+    font-family: Gilroy;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; 
+}
+
+.price-text{
+    color: #01CD7D;
+}
+.country .price-text{
+    color: #01CD7D  ;
+}
