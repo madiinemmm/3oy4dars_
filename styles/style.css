@@ -43,20 +43,15 @@
     border-radius: 36px;
     background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
     box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
-    flex-shrink: 0;
     color:#FFF;
     text-align: center;
-    font-family: Gilroy;
     font-size: 13px;
-    font-style: normal;
     font-weight: 700;
     line-height: 18px;
 }
 .txt3{
     color: #ffffff;
-    font-family: Gilroy;
     font-size: 72px;
-    font-style: normal;
     font-weight: 800;
     line-height: 80px;
     margin-left: 250px; 
@@ -64,9 +59,7 @@
 }
 .txt4{
     color: #ffffff;
-    font-family: Gilroy;
     font-size: 20px;
-    font-style: normal;
     font-weight: 300;
     line-height: 42px; 
     margin-left: 250px;
@@ -83,9 +76,7 @@
     margin-top: 36px;
     color: #FFF;
     text-align: center;
-    font-family: Gilroy;
     font-size: 17px;
-    font-style: normal;
     font-weight: 700;
     line-height: 18px; 
     border: none;
@@ -136,7 +127,6 @@
 }
 .carousel-item span{
     color: #1F2428;
-    font-family: Gilroy;
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
@@ -150,9 +140,7 @@
 }
 .elements-item h3{
     color:#1F2428;
-    font-family: Gilroy;
     font-size: 26px;
-    font-style: normal;
     font-weight: 700;
     line-height: 36px;
     width: 100%;
@@ -180,9 +168,7 @@
 }
 .price p{
     color:#1F2428;
-    font-family: Gilroy;
     font-size: 26px;
-    font-style: normal;
     font-weight: 700;
     line-height: 36px;
 }
@@ -197,9 +183,7 @@
 }
 .price-text{
     color: #01CD7D;
-    font-family: Gilroy;
     font-size: 26px;
-    font-style: normal;
     font-weight: 700;
     line-height: 36px; 
 }
@@ -213,54 +197,41 @@
 .txt5{
     color: #1F2428;
     text-align: center;
-    font-family: Gilroy;
     font-size: 18px;
-    font-style: normal;
     font-weight: 300;
     line-height: 24px; 
 }
 .txt6{
     color:#1F2428;
     text-align: center;
-    font-family: Gilroy;
     font-size: 26px;
-    font-style: normal;
     font-weight: 700;
     line-height: 36px; 
 }
 .span1{
     color: #01CD7D;
-    font-family: Gilroy;
     font-size: 26px;
-    font-style: normal;
     font-weight: 700;
     line-height: 36px;
 }
 .txt7{
-    color: #000000;
-    font-family: Gilroy;
+    color: #ffffff;
     font-size: 30px;
-    font-style: normal;
     font-weight: 700;
     line-height: 40px;
 }
 .txt8{
-    color:#000000;
-    font-family: Gilroy;
+    color:#ffffff;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px; 
-    margin-top: 8px;
+    margin-top: 9px;
 }
 .card2{
     display: flex;
 }
 .photo2{
     padding: 38px 200px;
-}
-.text{
-    padding-top: 111px;
 }
 .btn__side2{
     width: 240px;
@@ -271,9 +242,7 @@
     box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
     color: #FFF;
     text-align: center;
-    font-family: Gilroy;
     font-size: 17px;
-    font-style: normal;
     font-weight: 700;
     line-height: 18px; 
     border: none;
@@ -288,18 +257,14 @@
 }
 .txt9{
     color:#1F2428;
-    font-family: Gilroy;
     font-size: 44px;
-    font-style: normal;
     font-weight: 800;
     line-height: 56px;
     margin-top: 160px;
 }
 .txt10{
     color:#1F2428;
-    font-family: Gilroy;
     font-size: 20px;
-    font-style: normal;
     font-weight: 300;
     line-height: 36px;
     margin-top: 20px;
@@ -314,9 +279,7 @@
 }
 .txt11{
     color: #222;
-    font-family: Gilroy;
     font-size: 14px;
-    font-style: normal;
     font-weight: 700;
     line-height: 18px;
 }
@@ -328,9 +291,7 @@
 }
 .txt12{
     color: #222;
-    font-family: Gilroy;
     font-size: 16px;
-    font-style: normal;
     font-weight: 300;
     line-height: 16px; 
 }
@@ -351,9 +312,7 @@
     box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
     color: var(--1, #FFF);
     text-align: center;
-    font-family: Gilroy;
     font-size: 17px;
-    font-style: normal;
     font-weight: 700;
     line-height: 18px;
     margin-top: 32px;
@@ -370,18 +329,14 @@
 }
 .txt14{
     color: #1F2428;
-    font-family: Gilroy;
     font-size: 36px;
-    font-style: normal;
     font-weight: 800;
     line-height: 56px;
     margin-top: 80px;
 }
 .txt15{
     color: #1F2428;
-    font-family: Gilroy;
     font-size: 18px;
-    font-style: normal;
     font-weight: 700;
     line-height: 24px;
     text-transform: uppercase;
@@ -390,17 +345,13 @@
 }
 .txt16{
     color: #222;
-    font-family: Gilroy;
     font-size: 14px;
-    font-style: normal;
     font-weight: 400;
     line-height: 18px; 
 }
 .txt17{
     color: #222;
-    font-family: Gilroy;
     font-size: 20px;
-    font-style: normal;
     font-weight: 700;
     line-height: 16px; 
 }
@@ -433,6 +384,267 @@
 .icon{
     margin-left: 7px;
 }
+.txt18{
+    color: #1F2428;
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 56px;
+    margin-top: 170px;
+}
+.txt20{
+    color: #1F2428;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px; 
+}
+.txt21{
+    color: #01CD7D;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.card10{
+    display: flex;
+    gap: 78px;
+}
+.txt22{
+    color: #1F2428;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 36px;
+    margin-top: 50px;
+}
+.btn__side4{
+    width: 240px;
+    height: 66px;
+    flex-shrink: 0;
+    border-radius: 36px;
+    background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+    box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
+    color: #FFF;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 18px; 
+    border: none;
+    margin-top: 30px;
+}
+.txt23{
+    color:#1F2428;
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 56px;
+    margin-top: 150px;
+}
+.txt24{
+    color:#1F2428;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 36px;
+    margin-top: 20px;
+}
+.txt25{
+    color: #1F2428;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    padding-left: 37px;
+}
+.txt26{
+    color:#1F2428;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    padding: 10px 37px;
+}
+.card11{
+    width: 447px;
+    height: 250px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #FFF;
+    box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+}
+.photo3{
+   padding: 35px 37px;
+}
+.wrapper{
+    display: flex;
+    gap:30px;
+    margin-top: 40px;
+}
+.txt27{
+    color: #1F2428;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 56px; 
+    margin-top: 80px;
+}
+.txt28{
+    color: #1F2428;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    padding-top: 22px;
+} 
+.txt29{
+    color: #1F2428;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-top: 14px; 
+}
+.txt30{
+    padding-top: 67px;
+}
+.txt30 span{
+    color: #1F2428;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px; 
+}
+.txt31{
+    padding-top: 6px;
+    padding-left: 38px;
+}
+.wrapper2{
+    display: flex;
+    gap: 40px;
+}
+.card12{
+    display: flex;
+    width: 685px;
+    height: 260px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: var(--5, #FFF);
+    box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+    margin-top: 30px;
+}
+.photo4{
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.wrapperr{
+    margin-left: 38px;
+}
+.txt32{
+    color:  #1F2428;
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 56px; 
+    margin-top: 150px;
+}
+.txt33{
+    color:#1F2428;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 36px;
+}
+.txt34{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    padding: 64px;
+}
+.txt35{
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    padding-top: 113px;
+    padding-left: 10px;
+}
+.btn__side5{
+    width: 240px;
+    height: 66px;
+    flex-shrink: 0;
+    border-radius: 36px;
+    background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+    box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 18px;
+    border: none;
+    margin-top: 92px;
+    margin-left: 67px;
+}
+.card14{
+    display: flex;
+    border-radius: 36px;
+    background: linear-gradient(80deg, #5B52A3 1.08%, #40B8EA 100% );
+    margin-top: 150px;
+}
+.card15{
+    display: flex;
+    padding-left: 114px;
+}
+.rectangle{
+
+}
+.email{
+    padding-top: 108px;
+}
+.logo__footer{
+    margin-top: 70px;
+}
+.footer__svg{
+    margin-top: 34px;
+}
+.footer__card{
+    display: flex;
+}
+.footer__card2{
+    margin-left: 50px;
+}
+.footer__txt{
+    margin-left: 207px;
+    margin-top: 86px;
+}
+.footer__txt2{
+    margin-left: 149px;
+    margin-top: 86px;
+}
+.footer__txt3{
+    margin-left: 217px;
+    margin-top: 86px;
+}
+.txt36{
+    color:#1F2428;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px; 
+}
+.txt37{
+    color: #1F2428;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px; 
+}
+.txt38{
+    width: 1800px;
+    height: 1px;
+    flex-shrink: 0;
+    border-radius: 36px;
+    background: #C0C9D7;
+    margin-top: 55px;
+}
+.txt39{
+    color:#1F2428;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-top: 36px;
+    margin-bottom: 33px;
+}
+
+
 
 
 
